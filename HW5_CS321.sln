@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW5_CS321", "HW5_CS321\HW5_CS321.csproj", "{D21EA188-B0D6-4B94-AA7B-75CCEC11A29C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpreadsheetEngine", "SpreadsheetEngine\SpreadsheetEngine.csproj", "{FEB2B8D6-10A7-46D1-8ED6-23FF957DC269}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D21EA188-B0D6-4B94-AA7B-75CCEC11A29C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D21EA188-B0D6-4B94-AA7B-75CCEC11A29C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D21EA188-B0D6-4B94-AA7B-75CCEC11A29C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D21EA188-B0D6-4B94-AA7B-75CCEC11A29C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEB2B8D6-10A7-46D1-8ED6-23FF957DC269}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEB2B8D6-10A7-46D1-8ED6-23FF957DC269}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEB2B8D6-10A7-46D1-8ED6-23FF957DC269}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEB2B8D6-10A7-46D1-8ED6-23FF957DC269}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
