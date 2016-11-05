@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("HW5_CS321")]
+[assembly: AssemblyTitle("HW7_CS321_SpreadSheet")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Microsoft")]
-[assembly: AssemblyProduct("HW5_CS321")]
+[assembly: AssemblyProduct("HW7_CS321_SpreadSheet")]
 [assembly: AssemblyCopyright("Copyright © Microsoft 2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("d21ea188-b0d6-4b94-aa7b-75ccec11a29c")]
+[assembly: Guid("29d78232-927a-46e6-bc69-b9b31146a1ea")]
 
 // Version information for an assembly consists of the following four values:
 //

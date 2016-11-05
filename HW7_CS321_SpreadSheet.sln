@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW5_CS321", "HW5_CS321\HW5_CS321.csproj", "{D21EA188-B0D6-4B94-AA7B-75CCEC11A29C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW7_CS321_SpreadSheet", "HW7_CS321_SpreadSheet\HW7_CS321_SpreadSheet.csproj", "{29D78232-927A-46E6-BC69-B9B31146A1EA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpreadsheetEngine", "SpreadsheetEngine\SpreadsheetEngine.csproj", "{FEB2B8D6-10A7-46D1-8ED6-23FF957DC269}"
 EndProject
@@ -13,10 +13,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D21EA188-B0D6-4B94-AA7B-75CCEC11A29C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D21EA188-B0D6-4B94-AA7B-75CCEC11A29C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D21EA188-B0D6-4B94-AA7B-75CCEC11A29C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D21EA188-B0D6-4B94-AA7B-75CCEC11A29C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29D78232-927A-46E6-BC69-B9B31146A1EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29D78232-927A-46E6-BC69-B9B31146A1EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29D78232-927A-46E6-BC69-B9B31146A1EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29D78232-927A-46E6-BC69-B9B31146A1EA}.Release|Any CPU.Build.0 = Release|Any CPU
 		{FEB2B8D6-10A7-46D1-8ED6-23FF957DC269}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{FEB2B8D6-10A7-46D1-8ED6-23FF957DC269}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FEB2B8D6-10A7-46D1-8ED6-23FF957DC269}.Release|Any CPU.ActiveCfg = Release|Any CPU
